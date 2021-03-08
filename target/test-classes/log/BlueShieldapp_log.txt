@@ -1,0 +1,10 @@
+INFO    2021-03-07 23:05:31,483 [main] testbase.BaseTest  - ****** Test Execution Started*******
+INFO    2021-03-07 23:05:35,427 [main] testbase.BaseTest  - ----- Chrome has Launched-----
+INFO    2021-03-07 23:05:43,909 [main] testbase.BaseTest  - --- Navigated to : https://www.blueshieldca.com/
+INFO    2021-03-07 23:05:44,509 [main] testbase.BaseTest  - ----Window is maximize----
+INFO    2021-03-07 23:05:49,487 [main] testbase.BaseTest  - ---Clicked on Find A Doctor---
+INFO    2021-03-07 23:05:49,574 [main] testbase.BaseTest  - ---Validating Page as:What are you looking for?----
+INFO    2021-03-07 23:05:49,954 [main] testbase.BaseTest  - ---Clicked in Doctor and Specialist
+INFO    2021-03-07 23:05:50,055 [main] testbase.BaseTest  - ---Validating Page is : Get personalized search results----
+INFO    2021-03-07 23:05:50,465 [main] testbase.BaseTest  - --- Clicked on Continue as Guest ---
+INFO    2021-03-07 23:05:50,572 [main] testbase.BaseTest  - ---Validating Title of Page as : Location for Doctors and Specialists - Find a Doctor----

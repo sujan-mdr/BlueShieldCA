@@ -1,0 +1,12 @@
+pages\SelectDrPage.class
+pages\SelectPlanPage.class
+pages\HomePage.class
+pages\LocationPage.class
+pages\GetPersonalisedPage.class
+pages\AffiliationPage.class
+pages\FindDoctorPage.class
+pages\DoctorsPage.class
+pages\HospitalDetailsaPage.class
+pages\DrDetailsPage.class
+pagebase\BasePage.class
+pages\ChoosePlanPage.class

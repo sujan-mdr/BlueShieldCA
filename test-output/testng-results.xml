@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-07T23:05:31 PST" name="Blue Shield CA Suite" finished-at="2021-03-07T23:06:04 PST" duration-ms="33548">
+    <groups>
+    </groups>
+    <test started-at="2021-03-07T23:05:31 PST" name="Find A Doctor Test" finished-at="2021-03-07T23:06:04 PST" duration-ms="33548">
+      <class name="testcases.FindDrTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.FindDrTest@265adfad]" started-at="2021-03-07T23:05:31 PST" name="setUp" finished-at="2021-03-07T23:05:44 PST" duration-ms="13093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="findDoctor()[pri:0, instance:testcases.FindDrTest@265adfad]" started-at="2021-03-07T23:05:44 PST" name="findDoctor" finished-at="2021-03-07T23:06:03 PST" duration-ms="18903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- findDoctor -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcases.FindDrTest@265adfad]" started-at="2021-03-07T23:06:03 PST" name="tearDown" finished-at="2021-03-07T23:06:04 PST" duration-ms="1510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.FindDrTest -->
+    </test> <!-- Find A Doctor Test -->
+  </suite> <!-- Blue Shield CA Suite -->
+</testng-results>
